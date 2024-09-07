@@ -1,0 +1,1 @@
+import{a as o,o as n,c,d as a,w as s,f as l}from"./index-DbAyaiKz.js";const u={__name:"Test1",setup(r){function e(){console.log("m1")}return(_,m)=>{const t=o("el-button");return n(),c("div",null,[a(t,{type:"primary",onClick:e},{default:s(()=>[l("测试click")]),_:1})])}}};export{u as default};
