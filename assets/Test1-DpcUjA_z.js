@@ -1,0 +1,1 @@
+import{E as o,F as a,Q as c,Y as n,av as s,a1 as l}from"./index-O-KPv_bY.js";const u={__name:"Test1",setup(r){function e(){console.log("m1")}return(_,m)=>{const t=s;return o(),a("div",null,[c(t,{type:"primary",onClick:e},{default:n(()=>[l("测试click")]),_:1})])}}};export{u as default};

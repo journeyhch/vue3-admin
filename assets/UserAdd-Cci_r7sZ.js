@@ -1,0 +1,1 @@
+import{as as e,E as s,F as t,a1 as a,a4 as o}from"./index-O-KPv_bY.js";const r={name:"UserList"},c=o("div",{style:{height:"40000px",width:"300px","background-color":"black"}},null,-1);function n(d,l,i,p,_,u){return s(),t("div",null,[a(" user add "),c])}const x=e(r,[["render",n]]);export{x as default};
