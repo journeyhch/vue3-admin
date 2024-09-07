@@ -1,0 +1,1 @@
+import{bo as s,r as t,C as c}from"./index-_Od8McrU.js";const f=s("counter",()=>{const e=t(0);let o=t(!1);const u=t("http://baidu.com"),n=c(()=>e.value*2);function r(){e.value++}return{count:e,requetBaseuRL:u,doubleCount:n,increment:r,routeShow:o}},{});export{f as u};
